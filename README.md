@@ -46,5 +46,5 @@ Este proyecto está bajo la licencia MIT.
 
 
 ## Documentos útiles
-[Documentos]([URL de la documentación](https://github.com/nathfreire/08_Scraping/blob/main/01_desligar_remoto.pdf)){: .etiqueta1 .etiqueta2 title="Título del enlace"}
+[Documentos]([URL de la documentación](https://github.com/nathfreire/08_Scraping/blob/main/01_desligar_remoto.pdf)){: .etiqueta1 title="Título del enlace"}
 
