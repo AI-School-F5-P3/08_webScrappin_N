@@ -43,3 +43,6 @@ Puedes contribuir al proyecto realizando un fork del repositorio y enviando un p
 ## Licencia
 
 Este proyecto está bajo la licencia MIT.
+
+
+[Documentación]((https://github.com/nathfreire/08_Scraping/blob/main/01_desligar_remoto.pdf)){: .docs .etiqueta2}
