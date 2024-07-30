@@ -1,0 +1,4 @@
+2024-07-30 07:16:00,239 - logs - DEBUG - Se ejecuta la función listing_phrases
+2024-07-30 07:16:00,240 - logs - DEBUG - Se ejecuta la función listing_authors
+2024-07-30 07:16:00,240 - logs - DEBUG - Se ejecuta la función listing_links
+2024-07-30 07:16:00,243 - logs - DEBUG - Se ha generado el CSV
